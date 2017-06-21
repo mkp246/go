@@ -25,6 +25,7 @@ func (f MyFloat) Abs() float64{
 	}
 }
 
+
 func main() {
 	v:=Vertex{3,4}
 	fmt.Println(v.Abs())
